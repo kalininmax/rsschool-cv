@@ -11,9 +11,11 @@ My goal is to start a career Junior React developer and develop in this area. I'
 
 ## Skills
 
-- HTML, CSS/SCSS, JavaScript
+- HTML
+- CSS (SCSS, BEM, CSS Modules)
+- JavaScript (ES6+, DOM, JSON, Asynchronous JavaScript)
 - React, Redux
-- Git
+- Git, GitHub
 - Gulp, Webpack
 - Figma/Photoshop
 - Semantic, cross-browser, responsive layout
@@ -25,15 +27,7 @@ String.prototype.toJadenCase = function (str) {
 };
 ```
 
-## Education
-
-| Time | Place |
-| ---- | ----- |
-| 2020 — 2021  |  [**HTML Academy**](https://htmlacademy.ru/)<br>React developer ([certificate](https://assets.htmlacademy.ru/certificates/profession/21/120631.pdf)) |
-| 2017 — 2019  |  [**Kazan National Research Technological University**](https://www.kstu.ru)<br>Master's degree in Information Systems and Technology |
-| 2013 — 2017  |  [**Kazan National Research Technological University**](https://www.kstu.ru)<br>Bachelor of Science in Systems analysis and management in chemical technologies |
-
-## Employment History
+## Employment history
 
 | Time | Place |
 | ---- | ----- |
@@ -50,3 +44,17 @@ String.prototype.toJadenCase = function (str) {
 | [Cinemaddict](https://github.com/kalininmax/cinemaddict) | App for fans of movies. Detailed information, the ability to choose and create your own list of films to watch, discussion of films, view statistics and much more. | Vanilla JavaScript (ES6), Chart.js, Webpack |
 | [Six Cities](https://github.com/kalininmax/six-cities) | App for travelers who don't want to overpay for rental housing. Choose from six popular travel destinations and get an up-to-date list of rental deals. Detailed information about housing, showing the object on the map, as well as a concise interface of the service will help you quickly choose the best offer. | Vanilla JavaScript (ES6), React, Redux, Jest, Webpack |
 
+## Education
+
+| Time | Place |
+| ---- | ----- |
+| 2020 — 2021  |  [**HTML Academy**](https://htmlacademy.ru/)<br>React developer ([certificate](https://assets.htmlacademy.ru/certificates/profession/21/120631.pdf)) |
+| 2017 — 2019  |  [**Kazan National Research Technological University**](https://www.kstu.ru)<br>Master's degree in Information Systems and Technology |
+| 2013 — 2017  |  [**Kazan National Research Technological University**](https://www.kstu.ru)<br>Bachelor of Science in Systems analysis and management in chemical technologies |
+
+## English
+
+**A2** (Elementary):
+- Very basic personal, family and job-related language
+- Enough to meet the needs with slow, clear speech
+- Short, simple texts on familiar matter
