@@ -1,1 +1,0 @@
-https://kalininmax.github.io/rsschool-cv/cv
